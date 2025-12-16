@@ -35,10 +35,6 @@
     @apply text-2xl font-bold text-white sm:text-3xl;
   }
 
-  h3 {
-    @apply text-lg font-bold text-white sm:text-2xl;
-  }
-
   main {
     @apply min-h-screen relative bg-primary;
   }
@@ -49,10 +45,6 @@
 
   header img {
     @apply w-full max-w-lg h-auto object-contain mx-auto drop-shadow-md;
-  }
-
-  footer{
-    @apply my-5 text-white font-bold text-base text-center;
   }
 }
 

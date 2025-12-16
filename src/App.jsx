@@ -128,9 +128,6 @@ const App = () => {
           }
         </section>
       </div>
-        <footer>
-          <h3>Made with 💜 By <a href='https://github.com/SirHasani' className='text-gradient'>MohammadJavad Hasani</a></h3>
-        </footer>
     </main>
   )
 }
